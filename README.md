@@ -1,6 +1,7 @@
 # Time-Signal-Apple-Script-
 
 時報を鳴らしてくれるAppleScript。習作。
+自分用に作ったものをGitHubの練習のために公開してみただけなので、これを使って何か問題が起こっても責任取れないです。
 
 ## Description
 
