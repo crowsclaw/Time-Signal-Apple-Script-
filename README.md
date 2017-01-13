@@ -24,3 +24,7 @@ afplay -v〜以下を色々弄ると色々変わります。
 ## Licence
 
 権利とかは色々放棄してません。
+
+## Changelog
+
+- [更新履歴](changelog.md)
